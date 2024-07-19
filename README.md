@@ -9,8 +9,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+Proyecto que se trata para un curso para aprender más de la Inteligencia Artificial. En este curso te explican la utilización del lenguaje python para crear funciones, hacer un if y un else, etc...
 
 ## Background
 
